@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Karan.</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Karan</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Karan -->
 
@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science And Engineering at the University of Jaypee University Of Engineering And Technology.\
-🌱 &nbsp;I'm on track for learning more about Data Analytics, Cyber Security, and Cloud Computing(SaaS).\
+🌱 &nbsp;I'm on track for learning more about Full-stack development, Data Analytics, Cyber Security, and Cloud Computing(SaaS).\
 ✍️ &nbsp;In my free time, I persue ethical hacking and typing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at karanpratapsingh10001@gmail.com! I'll try to respond as soon as I can.\
