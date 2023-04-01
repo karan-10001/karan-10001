@@ -20,7 +20,7 @@
 ### 🛠 &nbsp;Tech Stack :
 
 
-### 👨‍💻<sub>Programming Language -</sub>
+### 👨‍💻<sub>Programming Languages -</sub>
 
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
