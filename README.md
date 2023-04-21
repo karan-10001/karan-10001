@@ -83,9 +83,10 @@
 </p>
 
 ### 🏆 &nbsp;Github Activity :
-<p align="center"> 
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=karan-10001&title=Joined2019,Commit,Stars,Followers,Repositories,PullRequest&column=6&margin-w=25&margin-h=15&theme=dracula" />
-</p>  
+ 
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=karan-10001&theme=radical&column=-1"/>
+ </p>
 
 ### 🤝🏻 &nbsp;Connect with Me :
 
