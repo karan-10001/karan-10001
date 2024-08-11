@@ -7,10 +7,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me :
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science And Engineering at the University of Jaypee University Of Engineering And Technology.\
-🌱 &nbsp;I'm on track for learning more about Full-stack development, Data Analytics, Cyber Security, and Cloud Computing(SaaS).\
-✍️ &nbsp;In my free time, I persue ethical hacking and typing as hobbies/side hustles.\
+🌱 &nbsp;I'm on track for learning more about Full-stack development, Data Analytics, Cyber Security.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at karanpratapsingh10001@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [resume](https://drive.google.com/file/d/1lFzopwoWtiqaTOoWsz4VRy0cQrIZwj26/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
@@ -39,7 +38,6 @@
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"></a>
-    <a href="#"> <img alt="react native" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white"></a>
@@ -52,7 +50,6 @@
      <a href="#"><img alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
@@ -67,7 +64,6 @@
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
     <a href="#"> <img alt="linux" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
     
 </p>
