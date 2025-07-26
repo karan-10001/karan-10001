@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me :
 
-💡 &nbsp;I’m a QA Automation Engineer with a passion for solving real-world problems through code, testing, and data-driven insights.\
+💡 &nbsp;I’m a QA Automation Engineer with a passion for solving real-world problems through testing, development and data-driven insights.\
 🧠 &nbsp;My background in automation, coding, analytics, and development helps me build and analysis software effectively.\
 💬 &nbsp;I'm open to consulting, volunteering, or a good tech conversation — feel free to reach out.\
 ✉ &nbsp;You can reach me at karanpratapsingh10001@gmail.com I’m happy to connect!\
