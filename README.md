@@ -7,11 +7,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me :
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🌱 &nbsp;I'm on track for learning more about Full-stack development, Data Analytics, Cyber Security.\
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at karanpratapsingh10001@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [resume](https://drive.google.com/file/d/1lFzopwoWtiqaTOoWsz4VRy0cQrIZwj26/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;I’m a QA Automation Engineer with a passion for solving real-world problems through code, testing, and data-driven insights.\
+🧠 &nbsp;My background in automation, coding, analytics, and development helps me build and analysis software effectively.\
+💬 &nbsp;I'm open to consulting, volunteering, or a good tech conversation — feel free to reach out.\
+✉ &nbsp;You can reach me at karanpratapsingh10001@gmail.com I’m happy to connect!\
+📄 &nbsp;Feel free to check out my [resume](https://drive.google.com/file/d/1lFzopwoWtiqaTOoWsz4VRy0cQrIZwj26/view?usp=sharing)— feedback and opportunities are always welcome.
 
 <img alt="Night Coding" src="https://github.com/karan-10001/karan-10001/blob/main/assets/Night-Coding.gif" align="right"/>
 
